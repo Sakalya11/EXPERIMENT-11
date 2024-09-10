@@ -5,7 +5,7 @@
 ### Software used:- VS code<br>
 
 ### Theory:-<br>
-In C++, the paradigm known as "Object-Oriented Programming" (OOP) is based on the idea that objects are just instances of classes. OOP is centered around four key ideas:
+In C++ (an object-oriented programming language, or OOP), a class is a blueprint that defines the properties (data) and behaviors (methods) of objects. An object is an instance of a class, representing a specific entity that can hold data and interact with other objects using the methods defined in its class.
 
 1).Encapsulation is the process of combining methods (functions) that manipulate data with data (attributes) into a single unit known as a class. This presents simply a controlled interface, concealing the internal state of the objects.<br>
 2).Inheritance: A mechanism that encourages code reuse by allowing a new class (derived) to inherit attributes and methods from an existing class (base).<br>
